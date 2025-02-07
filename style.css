@@ -383,6 +383,9 @@ footer p {
   .feature-list .feature-list_item {
     width: 360px;
   }
+  .navbar-header_mobile {
+    margin-right: 5px;
+  }
 }
 @media (max-width: 790px) {
   header,
